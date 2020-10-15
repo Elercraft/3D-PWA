@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="RedSky">
+    <title>3D Gaming</title>
+
+    <style>
+        #stats {
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+    </style>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <!--匯入jQuery-->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/96/three.min.js"></script>
+    <!--匯入three.js-->
+
+    <script src="https://threejs.org/examples/js/controls/OrbitControls.js"></script>
+    <!--匯入OrbitControls，軌道控制器，透過拖移及縮放調整相機位-->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/stats.js/r16/Stats.min.js"></script>
+    <!--匯入stats.js，畫面刷新頻率（FPS）性能監控 UI-->
+
+    <!--<script src="3D_project.js"></script>-->
+    <script src="camera_control.js"></script>
+</head>
+
+<body>
+    <div id="stats"></div>
+</body>
+
+</html>
