@@ -1,0 +1,12 @@
+1.Scene
+2.Camera
+3.Object
+4.Geometry
+5.Material
+6.Light
+7.Renderer
+
+
+可以試著把renderer看成相機照相鍵
+
+There is no problem shortage for problem solvers. There are only financial and trust barriers to solving some of them.
