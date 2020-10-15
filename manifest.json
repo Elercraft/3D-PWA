@@ -1,0 +1,20 @@
+{
+  "name": "PWA app",
+  "short_name": "PWA",
+  "start_url": "https://elercraft.github.io/ECG-PWA/index.html",
+  "background_color": "#6dcdb1",
+  "theme_color": "#009578",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://elercraft.github.io/ECG-PWA/images/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://elercraft.github.io/ECG-PWA/images/logo192.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
