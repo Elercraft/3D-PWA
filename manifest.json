@@ -1,7 +1,7 @@
 {
-  "name": "PWA app",
-  "short_name": "PWA",
-  "start_url": "https://elercraft.github.io/ECG-PWA/index.html",
+  "name": "Creeper",
+  "short_name": "Creeper",
+  "start_url": "https://elercraft.github.io/3D-PWA/3D_project.html",
   "background_color": "#6dcdb1",
   "theme_color": "#009578",
   "display": "standalone",
